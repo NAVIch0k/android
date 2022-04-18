@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/prepod/Desktop/Aleev_safonov/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/prepod/Desktop/loli/android/Aleev_safonov/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/prepod/Desktop/Prakt_1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/prepod/Desktop/Prakt_1/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/prepod/Desktop/Prakt_1/app/src/main/res/layout/fragment_content.xml" value="0.1" />
       </map>
     </option>
   </component>
