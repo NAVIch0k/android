@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aleev_safonov2</string>
+    <string name="Toast_name">Toast</string>
+    <string name="Count_name">Count</string>
+    <string name="show_count_name">0</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>

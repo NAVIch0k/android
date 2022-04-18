@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALEEV_SAFONOV_3-ISP9-8</string>
+    <string name="Toast_name">Toast</string>
+    <string name="Count_name">Count</string>
+    <string name="show_count_name">Show_count</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>
